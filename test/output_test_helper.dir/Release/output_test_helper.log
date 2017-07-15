@@ -1,0 +1,6 @@
+﻿  Building Custom Rule D:/USR/benchmark-1.1.0/test/CMakeLists.txt
+  CMake does not need to re-run because D:/USR/benchmark-1.1.0/test/CMakeFiles/generate.stamp is up-to-date.
+  output_test_helper.cc
+D:\USR\benchmark-1.1.0\test\output_test_helper.cc(34): warning C4459: declaration of 'dec_re' hides global declaration
+  d:\usr\benchmark-1.1.0\test\output_test.h(67): note: see declaration of '`anonymous-namespace'::dec_re'
+  output_test_helper.vcxproj -> D:\USR\benchmark-1.1.0\test\Release\output_test_helper.lib

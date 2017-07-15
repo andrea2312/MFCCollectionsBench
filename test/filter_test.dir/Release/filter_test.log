@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/USR/benchmark-1.1.0/test/CMakeLists.txt
+  CMake does not need to re-run because D:/USR/benchmark-1.1.0/test/CMakeFiles/generate.stamp is up-to-date.
+  filter_test.cc
+  filter_test.vcxproj -> D:\USR\benchmark-1.1.0\test\Release\filter_test.exe

@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/USR/benchmark-1.1.0/test/CMakeLists.txt
+  CMake does not need to re-run because D:/USR/benchmark-1.1.0/test/CMakeFiles/generate.stamp is up-to-date.
+  multiple_ranges_test.cc
+  multiple_ranges_test.vcxproj -> D:\USR\benchmark-1.1.0\test\Release\multiple_ranges_test.exe

@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/USR/benchmark-1.1.0/test/CMakeLists.txt
+  CMake does not need to re-run because D:/USR/benchmark-1.1.0/test/CMakeFiles/generate.stamp is up-to-date.
+  skip_with_error_test.cc
+d:\usr\benchmark-1.1.0\src\check.h(40): warning C4722: 'benchmark::internal::CheckHandler::~CheckHandler': destructor never returns, potential memory leak
+  skip_with_error_test.vcxproj -> D:\USR\benchmark-1.1.0\test\Release\skip_with_error_test.exe
